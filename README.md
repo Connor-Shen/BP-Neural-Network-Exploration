@@ -11,4 +11,5 @@ In this pj, I tried to build a 3layer neural network to identify the USPS datase
 5. Implementing “dropout".
 6. Implementing ‘fine-tuning’ of the last layer.
 7. Artificially create more training examples by applying small transformations.
+
 Finally I achievede the highest accuracy of 97%. Also there is still room for improvement, Such as implementing batch, 2D convolutional layer or doing some visulization. 
